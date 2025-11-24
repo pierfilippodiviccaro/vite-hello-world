@@ -28,6 +28,11 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+    <div>
+    <h2>la sai fare miao?</h2>
+    <img src={reactLogo} alt="" />
+
+    </div>
     </>
   )
 }
